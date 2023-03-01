@@ -7,7 +7,7 @@ import './Missions.css';
 export default class Missions extends React.Component {
   render() {
     return (
-      <div data-testid="missions">
+      <div data-testid="missions" className="missions-container">
         <Title headline="Missões" />
         <div className="missions">
           {missions.map((mission) => (
