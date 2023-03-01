@@ -1,9 +1,19 @@
 .missions-container {
   background-color: rgba(255, 255, 255, 0.111);
   border: 1px solid gray;
-  border-radius: 5px;
+  border-radius: 16px;
   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.9);
   width: 1098px;
+}
+
+.missions-container h1 {
+  border-bottom: 1px solid white;
+  padding-bottom: 16px;
+}
+
+.card-desc p {
+  font-size: larger;
+  line-height: 1;
 }
 
 .missions {
@@ -14,13 +24,23 @@
 }
 
 .mission-card {
-  align-items: center;
   background-color: rgba(24, 26, 37, 0.5);
-  border: 1px solid rgb(52, 52, 52);
-  border-radius: 5%;
+  border: 1px solid white;
+  border-radius: 16px;
   display: flex;
   flex-direction: column;
+  height: 196px;
   justify-content: center;
   line-height: 0.5;
-  width: 100%;
+  padding: 0 16px;
+  width: 496px;
+}
+
+.card-desc {
+  display: flex;
+  gap: 16px;
+}
+
+.mission-destination {
+  margin-left: auto;
 }
