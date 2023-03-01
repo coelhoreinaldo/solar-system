@@ -31,16 +31,30 @@
   flex-direction: column;
   height: 196px;
   justify-content: center;
-  line-height: 0.5;
+  line-height: 1;
   padding: 0 16px;
   width: 496px;
 }
 
 .card-desc {
+  align-items: center;
   display: flex;
   gap: 16px;
 }
 
 .mission-destination {
+  display: flex;
   margin-left: auto;
+}
+
+.desc-container {
+  display: flex;
+}
+
+.desc-container > p {
+  margin-left: 8px;
+}
+
+.mission-destination > p {
+  margin-left: 8px;
 }
