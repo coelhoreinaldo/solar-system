@@ -1,0 +1,21 @@
+.solar-system {
+  align-items: center;
+  display: flex;
+  gap: 16px;
+  height: 305px;
+  width: 80vw;
+}
+
+.planet-card {
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.575);
+  border: 1px solid rgb(52, 52, 52);
+  border-radius: 5%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.planet-image {
+  width: 100%;
+}
