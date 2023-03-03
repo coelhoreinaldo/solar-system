@@ -1,4 +1,27 @@
-# :construction: README customizado em construção ! :construction:
+# 🪐 Solar System
+
+O sistema solar e algumas missões espaciais.
+
+Acesse [aqui](https://coelhoreinaldo.github.io/).
+
+## ⚛️ Ferramentas
+
+Projeto construído utilizando React.
+
+## 🛠️ Como executar o projeto?
+
+1. Instalando dependências
+
+`npm install`
+
+2. Executando os testes
+
+`npm test`
+
+3. Executando a aplicação
+
+`npm start`
+
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
