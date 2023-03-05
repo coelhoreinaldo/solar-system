@@ -1,9 +1,10 @@
 .solar-system {
   align-items: center;
+  color: rgb(216, 216, 216);
   display: flex;
   gap: 16px;
   height: 305px;
-  padding: 32px 0;
+  padding: 16px 0 32px;
 }
 
 .planet-card {
