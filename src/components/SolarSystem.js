@@ -15,6 +15,7 @@ export default class SolarSystem extends React.Component {
               key={ planet.name }
               planetName={ planet.name }
               planetImage={ planet.image }
+              planetWidth={ planet.width }
             />
           ))}
         </div>
