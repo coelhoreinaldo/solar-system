@@ -16,6 +16,38 @@
   justify-content: center;
 }
 
+/* .planet-card:nth-child( 1 ) {
+  width: 41px;
+}
+
+.planet-card:nth-child( 2 ) {
+  width: 102px;
+}
+
+.planet-card:nth-child( 3 ) {
+  width: 106px;
+}
+
+.planet-card:nth-child( 4 ) {
+  width: 66px;
+}
+
+.planet-card:nth-child( 5 ) {
+  width: 272px;
+}
+
+.planet-card:nth-child( 6 ) {
+  width: 282px;
+}
+
+.planet-card:nth-child( 7 ) {
+  width: 144px;
+}
+
+.planet-card:nth-child( 8 ) {
+  width: 144px;
+} */
+
 .planet-image {
   width: 100%;
 }

@@ -1,10 +1,11 @@
 import React from 'react';
+import titleSvg from '../images/titleSvg.svg'; // with import
 
 export default class Header extends React.Component {
   render() {
     return (
       <header className="title">
-        <h1>Sistema Solar</h1>
+        <img src={ titleSvg } alt="destination" />
       </header>
     );
   }
