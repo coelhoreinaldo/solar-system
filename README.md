@@ -2,7 +2,7 @@
 
 O sistema solar e algumas missões espaciais.
 
-Acesse [aqui](https://coelhoreinaldo.github.io/).
+:construction: CSS EM CONSTRUÇÃO! :construction:
 
 ## ⚛️ Ferramentas
 
