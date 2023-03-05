@@ -7,12 +7,12 @@ export default class PlanetCard extends React.Component {
     const { planetName, planetImage } = this.props;
     return (
       <div data-testid="planet-card" className="planet-card">
-        <h3 data-testid="planet-name">{planetName}</h3>
         <img
           className="planet-image"
           src={ planetImage }
           alt={ `Planeta ${planetName}` }
         />
+        <h3 data-testid="planet-name">{planetName}</h3>
       </div>
     );
   }
