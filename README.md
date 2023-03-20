@@ -19,6 +19,3 @@ Projeto construído utilizando React.
 3. Executando a aplicação
 
 `npm start`
-
-
-### :construction: CSS EM CONSTRUÇÃO! :construction:
